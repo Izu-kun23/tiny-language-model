@@ -1,0 +1,839 @@
+Venue: Quarry Hotel
+Shift: Early
+Topic: Booking request
+Detail: A guest asked for a table for 4 in the coffee room at 10:30.
+Status: Waiting for the floor manager to check the table plan.
+Next step: Call the guest when the table and time are confirmed.
+
+Venue: Quarry Hotel
+Shift: Early
+Topic: Private hire
+Detail: A caller asked to hire the pond deck for a group of 4.
+Status: Date and guest count are in the silver binder.
+Next step: Ask the events lead to price the hire and reply after 10:30.
+
+Venue: Quarry Hotel
+Shift: Early
+Topic: Lost property
+Detail: A guest left a navy coat in the coffee room after dinner.
+Status: The desk has a description and a callback number.
+Next step: Check the cloakroom and update the silver binder before 10:30.
+
+Venue: Quarry Hotel
+Shift: Early
+Topic: Access enquiry
+Detail: A caller asked about step-free access to the pond deck.
+Status: The desk has the party size of 4 and the arrival time.
+Next step: Check the route with the duty manager before calling back.
+
+Venue: Quarry Hotel
+Shift: Early
+Topic: Weather change
+Detail: Rain forced a party of 4 to leave the pond deck.
+Status: The team offered seats in the coffee room at 10:30.
+Next step: Record the move in the silver binder and brief the next shift.
+
+Venue: Quarry Hotel
+Shift: Early
+Topic: Noise complaint
+Detail: A guest reported noise near the coffee room just after 10:30.
+Status: The duty manager has the room number and callback details.
+Next step: Check the area and call the guest with an update.
+
+Venue: Quarry Hotel
+Shift: Early
+Topic: Dietary enquiry
+Detail: A guest asked about dietary options for a party of 4.
+Status: The kitchen has the question and is checking the menu.
+Next step: Call back after the chef replies and update the silver binder.
+
+Venue: Quarry Hotel
+Shift: Early
+Topic: Supplier arrival
+Detail: A driver plans to deliver 4 boxes near the pond deck at 10:30.
+Status: The order number is in the silver binder.
+Next step: Meet the driver at the service door and count the boxes.
+
+Venue: Quarry Hotel
+Shift: Early
+Topic: Payment query
+Detail: A caller asked for a receipt for an event in the coffee room.
+Status: The desk noted the event time and invoice reference.
+Next step: Ask accounts to verify the payment before sending the receipt.
+
+Venue: Quarry Hotel
+Shift: Early
+Topic: Staff handover
+Detail: A party of 4 is due in the coffee room at 10:30.
+Status: The early shift left the table plan in the silver binder.
+Next step: Check the room setup with the floor team before doors open.
+
+Venue: Quarry Hotel
+Shift: Lunch
+Topic: Booking request
+Detail: A guest asked for a table for 6 in the coffee room at 12:15.
+Status: Waiting for the floor manager to check the table plan.
+Next step: Call the guest when the table and time are confirmed.
+
+Venue: Quarry Hotel
+Shift: Lunch
+Topic: Private hire
+Detail: A caller asked to hire the pond deck for a group of 6.
+Status: Date and guest count are in the silver binder.
+Next step: Ask the events lead to price the hire and reply after 12:15.
+
+Venue: Quarry Hotel
+Shift: Lunch
+Topic: Lost property
+Detail: A guest left a grey coat in the coffee room after dinner.
+Status: The desk has a description and a callback number.
+Next step: Check the cloakroom and update the silver binder before 12:15.
+
+Venue: Quarry Hotel
+Shift: Lunch
+Topic: Access enquiry
+Detail: A caller asked about step-free access to the pond deck.
+Status: The desk has the party size of 6 and the arrival time.
+Next step: Check the route with the duty manager before calling back.
+
+Venue: Quarry Hotel
+Shift: Lunch
+Topic: Weather change
+Detail: Rain forced a party of 6 to leave the pond deck.
+Status: The team offered seats in the coffee room at 12:15.
+Next step: Record the move in the silver binder and brief the next shift.
+
+Venue: Quarry Hotel
+Shift: Lunch
+Topic: Noise complaint
+Detail: A guest reported noise near the coffee room just after 12:15.
+Status: The duty manager has the room number and callback details.
+Next step: Check the area and call the guest with an update.
+
+Venue: Quarry Hotel
+Shift: Lunch
+Topic: Dietary enquiry
+Detail: A guest asked about dietary options for a party of 6.
+Status: The kitchen has the question and is checking the menu.
+Next step: Call back after the chef replies and update the silver binder.
+
+Venue: Quarry Hotel
+Shift: Lunch
+Topic: Supplier arrival
+Detail: A driver plans to deliver 6 boxes near the pond deck at 12:15.
+Status: The order number is in the silver binder.
+Next step: Meet the driver at the service door and count the boxes.
+
+Venue: Quarry Hotel
+Shift: Lunch
+Topic: Payment query
+Detail: A caller asked for a receipt for an event in the coffee room.
+Status: The desk noted the event time and invoice reference.
+Next step: Ask accounts to verify the payment before sending the receipt.
+
+Venue: Quarry Hotel
+Shift: Lunch
+Topic: Staff handover
+Detail: A party of 6 is due in the coffee room at 12:15.
+Status: The early shift left the table plan in the silver binder.
+Next step: Check the room setup with the floor team before doors open.
+
+Venue: Quarry Hotel
+Shift: Late
+Topic: Booking request
+Detail: A guest asked for a table for 8 in the coffee room at 16:45.
+Status: Waiting for the floor manager to check the table plan.
+Next step: Call the guest when the table and time are confirmed.
+
+Venue: Quarry Hotel
+Shift: Late
+Topic: Private hire
+Detail: A caller asked to hire the pond deck for a group of 8.
+Status: Date and guest count are in the silver binder.
+Next step: Ask the events lead to price the hire and reply after 16:45.
+
+Venue: Quarry Hotel
+Shift: Late
+Topic: Lost property
+Detail: A guest left a green coat in the coffee room after dinner.
+Status: The desk has a description and a callback number.
+Next step: Check the cloakroom and update the silver binder before 16:45.
+
+Venue: Quarry Hotel
+Shift: Late
+Topic: Access enquiry
+Detail: A caller asked about step-free access to the pond deck.
+Status: The desk has the party size of 8 and the arrival time.
+Next step: Check the route with the duty manager before calling back.
+
+Venue: Quarry Hotel
+Shift: Late
+Topic: Weather change
+Detail: Rain forced a party of 8 to leave the pond deck.
+Status: The team offered seats in the coffee room at 16:45.
+Next step: Record the move in the silver binder and brief the next shift.
+
+Venue: Quarry Hotel
+Shift: Late
+Topic: Noise complaint
+Detail: A guest reported noise near the coffee room just after 16:45.
+Status: The duty manager has the room number and callback details.
+Next step: Check the area and call the guest with an update.
+
+Venue: Quarry Hotel
+Shift: Late
+Topic: Dietary enquiry
+Detail: A guest asked about dietary options for a party of 8.
+Status: The kitchen has the question and is checking the menu.
+Next step: Call back after the chef replies and update the silver binder.
+
+Venue: Quarry Hotel
+Shift: Late
+Topic: Supplier arrival
+Detail: A driver plans to deliver 8 boxes near the pond deck at 16:45.
+Status: The order number is in the silver binder.
+Next step: Meet the driver at the service door and count the boxes.
+
+Venue: Quarry Hotel
+Shift: Late
+Topic: Payment query
+Detail: A caller asked for a receipt for an event in the coffee room.
+Status: The desk noted the event time and invoice reference.
+Next step: Ask accounts to verify the payment before sending the receipt.
+
+Venue: Quarry Hotel
+Shift: Late
+Topic: Staff handover
+Detail: A party of 8 is due in the coffee room at 16:45.
+Status: The early shift left the table plan in the silver binder.
+Next step: Check the room setup with the floor team before doors open.
+
+Venue: Quarry Hotel
+Shift: Evening
+Topic: Booking request
+Detail: A guest asked for a table for 12 in the coffee room at 19:00.
+Status: Waiting for the floor manager to check the table plan.
+Next step: Call the guest when the table and time are confirmed.
+
+Venue: Quarry Hotel
+Shift: Evening
+Topic: Private hire
+Detail: A caller asked to hire the pond deck for a group of 12.
+Status: Date and guest count are in the silver binder.
+Next step: Ask the events lead to price the hire and reply after 19:00.
+
+Venue: Quarry Hotel
+Shift: Evening
+Topic: Lost property
+Detail: A guest left a black coat in the coffee room after dinner.
+Status: The desk has a description and a callback number.
+Next step: Check the cloakroom and update the silver binder before 19:00.
+
+Venue: Quarry Hotel
+Shift: Evening
+Topic: Access enquiry
+Detail: A caller asked about step-free access to the pond deck.
+Status: The desk has the party size of 12 and the arrival time.
+Next step: Check the route with the duty manager before calling back.
+
+Venue: Quarry Hotel
+Shift: Evening
+Topic: Weather change
+Detail: Rain forced a party of 12 to leave the pond deck.
+Status: The team offered seats in the coffee room at 19:00.
+Next step: Record the move in the silver binder and brief the next shift.
+
+Venue: Quarry Hotel
+Shift: Evening
+Topic: Noise complaint
+Detail: A guest reported noise near the coffee room just after 19:00.
+Status: The duty manager has the room number and callback details.
+Next step: Check the area and call the guest with an update.
+
+Venue: Quarry Hotel
+Shift: Evening
+Topic: Dietary enquiry
+Detail: A guest asked about dietary options for a party of 12.
+Status: The kitchen has the question and is checking the menu.
+Next step: Call back after the chef replies and update the silver binder.
+
+Venue: Quarry Hotel
+Shift: Evening
+Topic: Supplier arrival
+Detail: A driver plans to deliver 12 boxes near the pond deck at 19:00.
+Status: The order number is in the silver binder.
+Next step: Meet the driver at the service door and count the boxes.
+
+Venue: Quarry Hotel
+Shift: Evening
+Topic: Payment query
+Detail: A caller asked for a receipt for an event in the coffee room.
+Status: The desk noted the event time and invoice reference.
+Next step: Ask accounts to verify the payment before sending the receipt.
+
+Venue: Quarry Hotel
+Shift: Evening
+Topic: Staff handover
+Detail: A party of 12 is due in the coffee room at 19:00.
+Status: The early shift left the table plan in the silver binder.
+Next step: Check the room setup with the floor team before doors open.
+
+Venue: Rowan Hall
+Shift: Early
+Topic: Booking request
+Detail: A guest asked for a table for 4 in the sitting room at 10:30.
+Status: Waiting for the floor manager to check the table plan.
+Next step: Call the guest when the table and time are confirmed.
+
+Venue: Rowan Hall
+Shift: Early
+Topic: Private hire
+Detail: A caller asked to hire the herb garden for a group of 4.
+Status: Date and guest count are in the night diary.
+Next step: Ask the events lead to price the hire and reply after 10:30.
+
+Venue: Rowan Hall
+Shift: Early
+Topic: Lost property
+Detail: A guest left a navy coat in the sitting room after dinner.
+Status: The desk has a description and a callback number.
+Next step: Check the cloakroom and update the night diary before 10:30.
+
+Venue: Rowan Hall
+Shift: Early
+Topic: Access enquiry
+Detail: A caller asked about step-free access to the herb garden.
+Status: The desk has the party size of 4 and the arrival time.
+Next step: Check the route with the duty manager before calling back.
+
+Venue: Rowan Hall
+Shift: Early
+Topic: Weather change
+Detail: Rain forced a party of 4 to leave the herb garden.
+Status: The team offered seats in the sitting room at 10:30.
+Next step: Record the move in the night diary and brief the next shift.
+
+Venue: Rowan Hall
+Shift: Early
+Topic: Noise complaint
+Detail: A guest reported noise near the sitting room just after 10:30.
+Status: The duty manager has the room number and callback details.
+Next step: Check the area and call the guest with an update.
+
+Venue: Rowan Hall
+Shift: Early
+Topic: Dietary enquiry
+Detail: A guest asked about dietary options for a party of 4.
+Status: The kitchen has the question and is checking the menu.
+Next step: Call back after the chef replies and update the night diary.
+
+Venue: Rowan Hall
+Shift: Early
+Topic: Supplier arrival
+Detail: A driver plans to deliver 4 boxes near the herb garden at 10:30.
+Status: The order number is in the night diary.
+Next step: Meet the driver at the service door and count the boxes.
+
+Venue: Rowan Hall
+Shift: Early
+Topic: Payment query
+Detail: A caller asked for a receipt for an event in the sitting room.
+Status: The desk noted the event time and invoice reference.
+Next step: Ask accounts to verify the payment before sending the receipt.
+
+Venue: Rowan Hall
+Shift: Early
+Topic: Staff handover
+Detail: A party of 4 is due in the sitting room at 10:30.
+Status: The early shift left the table plan in the night diary.
+Next step: Check the room setup with the floor team before doors open.
+
+Venue: Rowan Hall
+Shift: Lunch
+Topic: Booking request
+Detail: A guest asked for a table for 6 in the sitting room at 12:15.
+Status: Waiting for the floor manager to check the table plan.
+Next step: Call the guest when the table and time are confirmed.
+
+Venue: Rowan Hall
+Shift: Lunch
+Topic: Private hire
+Detail: A caller asked to hire the herb garden for a group of 6.
+Status: Date and guest count are in the night diary.
+Next step: Ask the events lead to price the hire and reply after 12:15.
+
+Venue: Rowan Hall
+Shift: Lunch
+Topic: Lost property
+Detail: A guest left a grey coat in the sitting room after dinner.
+Status: The desk has a description and a callback number.
+Next step: Check the cloakroom and update the night diary before 12:15.
+
+Venue: Rowan Hall
+Shift: Lunch
+Topic: Access enquiry
+Detail: A caller asked about step-free access to the herb garden.
+Status: The desk has the party size of 6 and the arrival time.
+Next step: Check the route with the duty manager before calling back.
+
+Venue: Rowan Hall
+Shift: Lunch
+Topic: Weather change
+Detail: Rain forced a party of 6 to leave the herb garden.
+Status: The team offered seats in the sitting room at 12:15.
+Next step: Record the move in the night diary and brief the next shift.
+
+Venue: Rowan Hall
+Shift: Lunch
+Topic: Noise complaint
+Detail: A guest reported noise near the sitting room just after 12:15.
+Status: The duty manager has the room number and callback details.
+Next step: Check the area and call the guest with an update.
+
+Venue: Rowan Hall
+Shift: Lunch
+Topic: Dietary enquiry
+Detail: A guest asked about dietary options for a party of 6.
+Status: The kitchen has the question and is checking the menu.
+Next step: Call back after the chef replies and update the night diary.
+
+Venue: Rowan Hall
+Shift: Lunch
+Topic: Supplier arrival
+Detail: A driver plans to deliver 6 boxes near the herb garden at 12:15.
+Status: The order number is in the night diary.
+Next step: Meet the driver at the service door and count the boxes.
+
+Venue: Rowan Hall
+Shift: Lunch
+Topic: Payment query
+Detail: A caller asked for a receipt for an event in the sitting room.
+Status: The desk noted the event time and invoice reference.
+Next step: Ask accounts to verify the payment before sending the receipt.
+
+Venue: Rowan Hall
+Shift: Lunch
+Topic: Staff handover
+Detail: A party of 6 is due in the sitting room at 12:15.
+Status: The early shift left the table plan in the night diary.
+Next step: Check the room setup with the floor team before doors open.
+
+Venue: Rowan Hall
+Shift: Late
+Topic: Booking request
+Detail: A guest asked for a table for 8 in the sitting room at 16:45.
+Status: Waiting for the floor manager to check the table plan.
+Next step: Call the guest when the table and time are confirmed.
+
+Venue: Rowan Hall
+Shift: Late
+Topic: Private hire
+Detail: A caller asked to hire the herb garden for a group of 8.
+Status: Date and guest count are in the night diary.
+Next step: Ask the events lead to price the hire and reply after 16:45.
+
+Venue: Rowan Hall
+Shift: Late
+Topic: Lost property
+Detail: A guest left a green coat in the sitting room after dinner.
+Status: The desk has a description and a callback number.
+Next step: Check the cloakroom and update the night diary before 16:45.
+
+Venue: Rowan Hall
+Shift: Late
+Topic: Access enquiry
+Detail: A caller asked about step-free access to the herb garden.
+Status: The desk has the party size of 8 and the arrival time.
+Next step: Check the route with the duty manager before calling back.
+
+Venue: Rowan Hall
+Shift: Late
+Topic: Weather change
+Detail: Rain forced a party of 8 to leave the herb garden.
+Status: The team offered seats in the sitting room at 16:45.
+Next step: Record the move in the night diary and brief the next shift.
+
+Venue: Rowan Hall
+Shift: Late
+Topic: Noise complaint
+Detail: A guest reported noise near the sitting room just after 16:45.
+Status: The duty manager has the room number and callback details.
+Next step: Check the area and call the guest with an update.
+
+Venue: Rowan Hall
+Shift: Late
+Topic: Dietary enquiry
+Detail: A guest asked about dietary options for a party of 8.
+Status: The kitchen has the question and is checking the menu.
+Next step: Call back after the chef replies and update the night diary.
+
+Venue: Rowan Hall
+Shift: Late
+Topic: Supplier arrival
+Detail: A driver plans to deliver 8 boxes near the herb garden at 16:45.
+Status: The order number is in the night diary.
+Next step: Meet the driver at the service door and count the boxes.
+
+Venue: Rowan Hall
+Shift: Late
+Topic: Payment query
+Detail: A caller asked for a receipt for an event in the sitting room.
+Status: The desk noted the event time and invoice reference.
+Next step: Ask accounts to verify the payment before sending the receipt.
+
+Venue: Rowan Hall
+Shift: Late
+Topic: Staff handover
+Detail: A party of 8 is due in the sitting room at 16:45.
+Status: The early shift left the table plan in the night diary.
+Next step: Check the room setup with the floor team before doors open.
+
+Venue: Rowan Hall
+Shift: Evening
+Topic: Booking request
+Detail: A guest asked for a table for 12 in the sitting room at 19:00.
+Status: Waiting for the floor manager to check the table plan.
+Next step: Call the guest when the table and time are confirmed.
+
+Venue: Rowan Hall
+Shift: Evening
+Topic: Private hire
+Detail: A caller asked to hire the herb garden for a group of 12.
+Status: Date and guest count are in the night diary.
+Next step: Ask the events lead to price the hire and reply after 19:00.
+
+Venue: Rowan Hall
+Shift: Evening
+Topic: Lost property
+Detail: A guest left a black coat in the sitting room after dinner.
+Status: The desk has a description and a callback number.
+Next step: Check the cloakroom and update the night diary before 19:00.
+
+Venue: Rowan Hall
+Shift: Evening
+Topic: Access enquiry
+Detail: A caller asked about step-free access to the herb garden.
+Status: The desk has the party size of 12 and the arrival time.
+Next step: Check the route with the duty manager before calling back.
+
+Venue: Rowan Hall
+Shift: Evening
+Topic: Weather change
+Detail: Rain forced a party of 12 to leave the herb garden.
+Status: The team offered seats in the sitting room at 19:00.
+Next step: Record the move in the night diary and brief the next shift.
+
+Venue: Rowan Hall
+Shift: Evening
+Topic: Noise complaint
+Detail: A guest reported noise near the sitting room just after 19:00.
+Status: The duty manager has the room number and callback details.
+Next step: Check the area and call the guest with an update.
+
+Venue: Rowan Hall
+Shift: Evening
+Topic: Dietary enquiry
+Detail: A guest asked about dietary options for a party of 12.
+Status: The kitchen has the question and is checking the menu.
+Next step: Call back after the chef replies and update the night diary.
+
+Venue: Rowan Hall
+Shift: Evening
+Topic: Supplier arrival
+Detail: A driver plans to deliver 12 boxes near the herb garden at 19:00.
+Status: The order number is in the night diary.
+Next step: Meet the driver at the service door and count the boxes.
+
+Venue: Rowan Hall
+Shift: Evening
+Topic: Payment query
+Detail: A caller asked for a receipt for an event in the sitting room.
+Status: The desk noted the event time and invoice reference.
+Next step: Ask accounts to verify the payment before sending the receipt.
+
+Venue: Rowan Hall
+Shift: Evening
+Topic: Staff handover
+Detail: A party of 12 is due in the sitting room at 19:00.
+Status: The early shift left the table plan in the night diary.
+Next step: Check the room setup with the floor team before doors open.
+
+Venue: Spruce House
+Shift: Early
+Topic: Booking request
+Detail: A guest asked for a table for 4 in the map room at 10:30.
+Status: Waiting for the floor manager to check the table plan.
+Next step: Call the guest when the table and time are confirmed.
+
+Venue: Spruce House
+Shift: Early
+Topic: Private hire
+Detail: A caller asked to hire the west lawn for a group of 4.
+Status: Date and guest count are in the linen notebook.
+Next step: Ask the events lead to price the hire and reply after 10:30.
+
+Venue: Spruce House
+Shift: Early
+Topic: Lost property
+Detail: A guest left a navy coat in the map room after dinner.
+Status: The desk has a description and a callback number.
+Next step: Check the cloakroom and update the linen notebook before 10:30.
+
+Venue: Spruce House
+Shift: Early
+Topic: Access enquiry
+Detail: A caller asked about step-free access to the west lawn.
+Status: The desk has the party size of 4 and the arrival time.
+Next step: Check the route with the duty manager before calling back.
+
+Venue: Spruce House
+Shift: Early
+Topic: Weather change
+Detail: Rain forced a party of 4 to leave the west lawn.
+Status: The team offered seats in the map room at 10:30.
+Next step: Record the move in the linen notebook and brief the next shift.
+
+Venue: Spruce House
+Shift: Early
+Topic: Noise complaint
+Detail: A guest reported noise near the map room just after 10:30.
+Status: The duty manager has the room number and callback details.
+Next step: Check the area and call the guest with an update.
+
+Venue: Spruce House
+Shift: Early
+Topic: Dietary enquiry
+Detail: A guest asked about dietary options for a party of 4.
+Status: The kitchen has the question and is checking the menu.
+Next step: Call back after the chef replies and update the linen notebook.
+
+Venue: Spruce House
+Shift: Early
+Topic: Supplier arrival
+Detail: A driver plans to deliver 4 boxes near the west lawn at 10:30.
+Status: The order number is in the linen notebook.
+Next step: Meet the driver at the service door and count the boxes.
+
+Venue: Spruce House
+Shift: Early
+Topic: Payment query
+Detail: A caller asked for a receipt for an event in the map room.
+Status: The desk noted the event time and invoice reference.
+Next step: Ask accounts to verify the payment before sending the receipt.
+
+Venue: Spruce House
+Shift: Early
+Topic: Staff handover
+Detail: A party of 4 is due in the map room at 10:30.
+Status: The early shift left the table plan in the linen notebook.
+Next step: Check the room setup with the floor team before doors open.
+
+Venue: Spruce House
+Shift: Lunch
+Topic: Booking request
+Detail: A guest asked for a table for 6 in the map room at 12:15.
+Status: Waiting for the floor manager to check the table plan.
+Next step: Call the guest when the table and time are confirmed.
+
+Venue: Spruce House
+Shift: Lunch
+Topic: Private hire
+Detail: A caller asked to hire the west lawn for a group of 6.
+Status: Date and guest count are in the linen notebook.
+Next step: Ask the events lead to price the hire and reply after 12:15.
+
+Venue: Spruce House
+Shift: Lunch
+Topic: Lost property
+Detail: A guest left a grey coat in the map room after dinner.
+Status: The desk has a description and a callback number.
+Next step: Check the cloakroom and update the linen notebook before 12:15.
+
+Venue: Spruce House
+Shift: Lunch
+Topic: Access enquiry
+Detail: A caller asked about step-free access to the west lawn.
+Status: The desk has the party size of 6 and the arrival time.
+Next step: Check the route with the duty manager before calling back.
+
+Venue: Spruce House
+Shift: Lunch
+Topic: Weather change
+Detail: Rain forced a party of 6 to leave the west lawn.
+Status: The team offered seats in the map room at 12:15.
+Next step: Record the move in the linen notebook and brief the next shift.
+
+Venue: Spruce House
+Shift: Lunch
+Topic: Noise complaint
+Detail: A guest reported noise near the map room just after 12:15.
+Status: The duty manager has the room number and callback details.
+Next step: Check the area and call the guest with an update.
+
+Venue: Spruce House
+Shift: Lunch
+Topic: Dietary enquiry
+Detail: A guest asked about dietary options for a party of 6.
+Status: The kitchen has the question and is checking the menu.
+Next step: Call back after the chef replies and update the linen notebook.
+
+Venue: Spruce House
+Shift: Lunch
+Topic: Supplier arrival
+Detail: A driver plans to deliver 6 boxes near the west lawn at 12:15.
+Status: The order number is in the linen notebook.
+Next step: Meet the driver at the service door and count the boxes.
+
+Venue: Spruce House
+Shift: Lunch
+Topic: Payment query
+Detail: A caller asked for a receipt for an event in the map room.
+Status: The desk noted the event time and invoice reference.
+Next step: Ask accounts to verify the payment before sending the receipt.
+
+Venue: Spruce House
+Shift: Lunch
+Topic: Staff handover
+Detail: A party of 6 is due in the map room at 12:15.
+Status: The early shift left the table plan in the linen notebook.
+Next step: Check the room setup with the floor team before doors open.
+
+Venue: Spruce House
+Shift: Late
+Topic: Booking request
+Detail: A guest asked for a table for 8 in the map room at 16:45.
+Status: Waiting for the floor manager to check the table plan.
+Next step: Call the guest when the table and time are confirmed.
+
+Venue: Spruce House
+Shift: Late
+Topic: Private hire
+Detail: A caller asked to hire the west lawn for a group of 8.
+Status: Date and guest count are in the linen notebook.
+Next step: Ask the events lead to price the hire and reply after 16:45.
+
+Venue: Spruce House
+Shift: Late
+Topic: Lost property
+Detail: A guest left a green coat in the map room after dinner.
+Status: The desk has a description and a callback number.
+Next step: Check the cloakroom and update the linen notebook before 16:45.
+
+Venue: Spruce House
+Shift: Late
+Topic: Access enquiry
+Detail: A caller asked about step-free access to the west lawn.
+Status: The desk has the party size of 8 and the arrival time.
+Next step: Check the route with the duty manager before calling back.
+
+Venue: Spruce House
+Shift: Late
+Topic: Weather change
+Detail: Rain forced a party of 8 to leave the west lawn.
+Status: The team offered seats in the map room at 16:45.
+Next step: Record the move in the linen notebook and brief the next shift.
+
+Venue: Spruce House
+Shift: Late
+Topic: Noise complaint
+Detail: A guest reported noise near the map room just after 16:45.
+Status: The duty manager has the room number and callback details.
+Next step: Check the area and call the guest with an update.
+
+Venue: Spruce House
+Shift: Late
+Topic: Dietary enquiry
+Detail: A guest asked about dietary options for a party of 8.
+Status: The kitchen has the question and is checking the menu.
+Next step: Call back after the chef replies and update the linen notebook.
+
+Venue: Spruce House
+Shift: Late
+Topic: Supplier arrival
+Detail: A driver plans to deliver 8 boxes near the west lawn at 16:45.
+Status: The order number is in the linen notebook.
+Next step: Meet the driver at the service door and count the boxes.
+
+Venue: Spruce House
+Shift: Late
+Topic: Payment query
+Detail: A caller asked for a receipt for an event in the map room.
+Status: The desk noted the event time and invoice reference.
+Next step: Ask accounts to verify the payment before sending the receipt.
+
+Venue: Spruce House
+Shift: Late
+Topic: Staff handover
+Detail: A party of 8 is due in the map room at 16:45.
+Status: The early shift left the table plan in the linen notebook.
+Next step: Check the room setup with the floor team before doors open.
+
+Venue: Spruce House
+Shift: Evening
+Topic: Booking request
+Detail: A guest asked for a table for 12 in the map room at 19:00.
+Status: Waiting for the floor manager to check the table plan.
+Next step: Call the guest when the table and time are confirmed.
+
+Venue: Spruce House
+Shift: Evening
+Topic: Private hire
+Detail: A caller asked to hire the west lawn for a group of 12.
+Status: Date and guest count are in the linen notebook.
+Next step: Ask the events lead to price the hire and reply after 19:00.
+
+Venue: Spruce House
+Shift: Evening
+Topic: Lost property
+Detail: A guest left a black coat in the map room after dinner.
+Status: The desk has a description and a callback number.
+Next step: Check the cloakroom and update the linen notebook before 19:00.
+
+Venue: Spruce House
+Shift: Evening
+Topic: Access enquiry
+Detail: A caller asked about step-free access to the west lawn.
+Status: The desk has the party size of 12 and the arrival time.
+Next step: Check the route with the duty manager before calling back.
+
+Venue: Spruce House
+Shift: Evening
+Topic: Weather change
+Detail: Rain forced a party of 12 to leave the west lawn.
+Status: The team offered seats in the map room at 19:00.
+Next step: Record the move in the linen notebook and brief the next shift.
+
+Venue: Spruce House
+Shift: Evening
+Topic: Noise complaint
+Detail: A guest reported noise near the map room just after 19:00.
+Status: The duty manager has the room number and callback details.
+Next step: Check the area and call the guest with an update.
+
+Venue: Spruce House
+Shift: Evening
+Topic: Dietary enquiry
+Detail: A guest asked about dietary options for a party of 12.
+Status: The kitchen has the question and is checking the menu.
+Next step: Call back after the chef replies and update the linen notebook.
+
+Venue: Spruce House
+Shift: Evening
+Topic: Supplier arrival
+Detail: A driver plans to deliver 12 boxes near the west lawn at 19:00.
+Status: The order number is in the linen notebook.
+Next step: Meet the driver at the service door and count the boxes.
+
+Venue: Spruce House
+Shift: Evening
+Topic: Payment query
+Detail: A caller asked for a receipt for an event in the map room.
+Status: The desk noted the event time and invoice reference.
+Next step: Ask accounts to verify the payment before sending the receipt.
+
+Venue: Spruce House
+Shift: Evening
+Topic: Staff handover
+Detail: A party of 12 is due in the map room at 19:00.
+Status: The early shift left the table plan in the linen notebook.
+Next step: Check the room setup with the floor team before doors open.

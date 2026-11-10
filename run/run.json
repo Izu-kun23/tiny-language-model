@@ -1,0 +1,31 @@
+{
+  "parameters": 116224,
+  "config": {
+    "vocab_size": 62,
+    "context": 128,
+    "width": 64,
+    "heads": 4,
+    "layers": 2
+  },
+  "training_seed": 42,
+  "steps": 2400,
+  "batch_size": 16,
+  "threads": 4,
+  "device": "cpu",
+  "torch_version": "2.7.1+cpu",
+  "characters_by_split": {
+    "train": 159287,
+    "validation": 30164,
+    "test": 30156
+  },
+  "unknown_characters_by_split": {
+    "train": 0,
+    "validation": 40,
+    "test": 40
+  },
+  "test_loss": 0.7058716345340648,
+  "seconds": 97.1,
+  "sample_seed": 2026,
+  "sample_temperature": 0.8,
+  "sample_length": 200
+}
